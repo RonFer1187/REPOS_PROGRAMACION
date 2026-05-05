@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Página-1" id="rnBrlhSov8GiHFerekoo">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wE7XaQC0AvTraF51fyfo-3" edge="1" parent="1" source="wE7XaQC0AvTraF51fyfo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wE7XaQC0AvTraF51fyfo-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Algoritmo eje8" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-5" edge="1" parent="1" source="wE7XaQC0AvTraF51fyfo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wE7XaQC0AvTraF51fyfo-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&quot;Ingrese cantidad de litros vendidos&quot;" vertex="1">
+          <mxGeometry height="60" width="320" x="240" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-7" edge="1" parent="1" source="wE7XaQC0AvTraF51fyfo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wE7XaQC0AvTraF51fyfo-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="dato" vertex="1">
+          <mxGeometry height="40" width="120" x="340" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-9" edge="1" parent="1" source="wE7XaQC0AvTraF51fyfo-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wE7XaQC0AvTraF51fyfo-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="litro&amp;lt;-3.785" vertex="1">
+          <mxGeometry height="30" width="180" x="310" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-11" edge="1" parent="1" source="wE7XaQC0AvTraF51fyfo-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wE7XaQC0AvTraF51fyfo-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-8" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="pago&amp;lt;-litro*dato" vertex="1">
+          <mxGeometry height="30" width="180" x="310" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-13" edge="1" parent="1" source="wE7XaQC0AvTraF51fyfo-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="wE7XaQC0AvTraF51fyfo-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-10" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&quot;El costo total por &quot;, dato &quot; litros de leche es &quot; pago &quot; Bs&quot;" vertex="1">
+          <mxGeometry height="80" width="380" x="210" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="wE7XaQC0AvTraF51fyfo-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="FinAlgoritmo" vertex="1">
+          <mxGeometry height="80" width="120" x="340" y="560" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

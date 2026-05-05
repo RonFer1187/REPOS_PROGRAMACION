@@ -1,0 +1,61 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Página-1" id="cxaUxRVKavnbHqKmsVzp">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-3" edge="1" parent="1" source="KxXlKqbjl0P9iz8uxhsA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KxXlKqbjl0P9iz8uxhsA-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Algoritmo eje8" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-5" edge="1" parent="1" source="KxXlKqbjl0P9iz8uxhsA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KxXlKqbjl0P9iz8uxhsA-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&quot;Ingrese capital a invertir&quot;" vertex="1">
+          <mxGeometry height="30" width="300" x="260" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-7" edge="1" parent="1" source="KxXlKqbjl0P9iz8uxhsA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KxXlKqbjl0P9iz8uxhsA-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="capital" vertex="1">
+          <mxGeometry height="30" width="120" x="350" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-9" edge="1" parent="1" source="KxXlKqbjl0P9iz8uxhsA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KxXlKqbjl0P9iz8uxhsA-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-6" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="interes&amp;lt;-0.015" vertex="1">
+          <mxGeometry height="30" width="190" x="315" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-11" edge="1" parent="1" source="KxXlKqbjl0P9iz8uxhsA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KxXlKqbjl0P9iz8uxhsA-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-8" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="ganancia&amp;lt;- capital*interes" vertex="1">
+          <mxGeometry height="30" width="190" x="315" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-13" edge="1" parent="1" source="KxXlKqbjl0P9iz8uxhsA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KxXlKqbjl0P9iz8uxhsA-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-10" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="cuenta&amp;lt;-ganancia+capital" vertex="1">
+          <mxGeometry height="30" width="190" x="315" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-15" edge="1" parent="1" source="KxXlKqbjl0P9iz8uxhsA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KxXlKqbjl0P9iz8uxhsA-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-12" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&quot; Su inversion es de &quot;, capital, &quot; y su ganancia mensual es de : &quot;, ganancia" vertex="1">
+          <mxGeometry height="80" width="400" x="210" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-17" edge="1" parent="1" source="KxXlKqbjl0P9iz8uxhsA-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="KxXlKqbjl0P9iz8uxhsA-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-14" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&quot;Su cuenta en el banco al cabo de un mes tendra : &quot;, cuenta" vertex="1">
+          <mxGeometry height="80" width="400" x="210" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="KxXlKqbjl0P9iz8uxhsA-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="FinAlgoritmo" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
