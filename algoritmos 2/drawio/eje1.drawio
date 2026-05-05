@@ -1,0 +1,112 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Página-1" id="od3kKPkqAobwgUwFW7Ar">
+    <mxGraphModel dx="1066" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Algoritmo eje_1" vertex="1">
+          <mxGeometry height="60" width="230" x="245" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="150" as="sourcePoint" />
+            <mxPoint x="360" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Definir nombre como Caracter" vertex="1">
+          <mxGeometry height="30" width="240" x="240" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-12" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&quot;Por &quot; hrs_semana &quot; trabajadas del señor/a &quot; nombre &quot; su total pago es: &quot; total_pago&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="370" x="170" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Fin_Algoritmo&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="230" x="230" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="359.5" y="220" as="sourcePoint" />
+            <mxPoint x="359.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="359.5" y="270" as="sourcePoint" />
+            <mxPoint x="360" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="hrs_semana&amp;lt;=&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;0&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="290" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="320" as="sourcePoint" />
+            <mxPoint x="360.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="359.5" y="380" as="sourcePoint" />
+            <mxPoint x="360" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="hrs_semana&amp;lt;=&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;0&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="290" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="pago_hrs&amp;lt;=&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;35&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="290" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="442" as="sourcePoint" />
+            <mxPoint x="360.5" y="482" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Ingrese el nombre trabajador/a" vertex="1">
+          <mxGeometry height="30" width="310" x="200" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="500" as="sourcePoint" />
+            <mxPoint x="360.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-8" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="nombre" vertex="1">
+          <mxGeometry height="30" width="165" x="290" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="359.5" y="560" as="sourcePoint" />
+            <mxPoint x="360" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Ingrese horas trabajadas a la semana" vertex="1">
+          <mxGeometry height="30" width="310" x="200" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="620" as="sourcePoint" />
+            <mxPoint x="360.5" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="hrs_semana" vertex="1">
+          <mxGeometry height="30" width="165" x="272.5" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="680" as="sourcePoint" />
+            <mxPoint x="360.5" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="total_pago&amp;lt;=hrs_semana*pago_hrs" vertex="1">
+          <mxGeometry height="30" width="230" x="230" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="l-eo-s7lynXAkg5uBi2L-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;entryX=0.565;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="l-eo-s7lynXAkg5uBi2L-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="359.5" y="790" as="sourcePoint" />
+            <mxPoint x="360" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
