@@ -1,0 +1,97 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram name="Página-1" id="isZuA47ny1-rBHlaEqZ5">
+    <mxGraphModel dx="1018" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-3" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Algoritmo eje14" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-5" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-2" parent="1" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Definir BOB, EUR, USD Como Real" vertex="1">
+          <mxGeometry height="30" width="200" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-7" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&quot;Ingrese cantidad de Bs. que desea cambiar&quot;" vertex="1">
+          <mxGeometry height="30" width="260" x="290" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-9" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-6" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="BOB" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-11" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-8" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&quot;Ingres Cambio oficial en EUR&quot;" vertex="1">
+          <mxGeometry height="30" width="260" x="290" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-13" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-10" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="EUR" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-16" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-12" parent="1" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&quot;Ingrese Cambio oficial en USD&quot;" vertex="1">
+          <mxGeometry height="30" width="260" x="290" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-18" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" value="USD" vertex="1">
+          <mxGeometry height="30" width="120" x="360" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-20" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-17" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Cambio_EUR&amp;lt;- BOB/EUR" vertex="1">
+          <mxGeometry height="30" width="220" x="310" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-22" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-19" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Cambio_USD&amp;lt;- BOB/USD" vertex="1">
+          <mxGeometry height="30" width="220" x="310" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-24" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-21" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Cambio_EURok&amp;lt;- REDON(Cambio_EUR*100)/100" vertex="1">
+          <mxGeometry height="30" width="310" x="265" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-26" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-23" parent="1" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;Cambio_USDok&amp;lt;-REDON(Cambio_USD*100)/100&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre; white-space: normal;&quot;&gt;&#x9;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="310" x="265" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-28" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-25" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&quot;El cambio de BOB a USD son :&quot;, Cambio_USDok, &quot; USD&quot;" vertex="1">
+          <mxGeometry height="50" width="330" x="255" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-30" edge="1" parent="1" source="n23HIZ4Go1lL9pHq7Tk8-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="n23HIZ4Go1lL9pHq7Tk8-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-27" parent="1" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Mostrar &quot;El cambio de BOB a EUR son :&quot;, Cambio_EURok, &quot; EUR&quot;" vertex="1">
+          <mxGeometry height="50" width="360" x="240" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="n23HIZ4Go1lL9pHq7Tk8-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="FinAlgoritmo" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="970" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
